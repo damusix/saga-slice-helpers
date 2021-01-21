@@ -46,7 +46,7 @@
     "eslint-plugin-jest": "^22.15.1",
     "eslint-plugin-react": "^7.14.3",
     "ghooks": "^2.0.4",
-    "immer": "^3.x.x",
+    "immer": "^8.x.x",
     "jest": "^24.8.0",
     "jsdoc-to-markdown": "^5.0.0",
     "redux": "^4.x.x",
